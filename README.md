@@ -1,5 +1,4 @@
 # Local First
-beep
 
 This is text in my README.
 
